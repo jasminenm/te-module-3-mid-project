@@ -1,0 +1,47 @@
+/*
+    style.css - this stylesheet is linked from index.html to apply styles to the products home page.
+    Add all of your custom styles here.
+*/
+/* body {
+    display: grid;
+    grid-template-areas:
+    "header header header"
+    "nav nav nav"
+    "main main main"
+    "footer footer footer"; 
+} */
+/* header {
+    text-align:center;
+    width: 100%;
+    top: 0px;
+    border-width: 1px;
+    border-block: solid;
+}
+
+nav {
+    display: -ms-inline-grid;
+    top: 200px;
+    height: 10px;
+}
+
+#left-side nav {
+    justify-items: start;
+}
+
+#right-side-nav {
+    justify-items: end;
+}
+
+main {
+    width: 100%;
+    
+}
+footer {
+    width: 100%;
+    bottom: 0px;
+}
+
+#product-cards {
+   display: inline-flex;
+    margin-top: 230px;
+} */
